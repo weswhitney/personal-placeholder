@@ -1,0 +1,22 @@
+{
+  "name": "html5up-aerial",
+  "version": "1.0.0",
+  "description": "one page personal app with links to twitter, linkedin, etc.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/weswhitney/personal-placeholder.git"
+  },
+  "author": "wes whitney",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/weswhitney/personal-placeholder/issues"
+  },
+  "homepage": "https://github.com/weswhitney/personal-placeholder#readme",
+  "dependencies": {
+    "express": "^4.15.3"
+  }
+}
